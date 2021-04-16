@@ -1,4 +1,4 @@
-# GlobWat_Target_file
+# globwat_target_grid
 A target file has been generated from one of the GlobWat models sample files
 (prc01wb.asc) for regridding ERA5 and ERA-Interim datasets. 
 The ASCII file can be found at:
